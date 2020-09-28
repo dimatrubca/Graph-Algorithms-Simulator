@@ -1,6 +1,6 @@
 Graph Algorithm Simulator
 
-<img src="https://github.com/dimatrubca/Graph-Algorithms-Simulator/blob/master/Screenshots/maxFlow.png.png" width="400">
+<img src="https://github.com/dimatrubca/Graph-Algorithms-Simulator/blob/master/Screenshots/maxFlow.png" width="400">
 
 Supported algorithms:
 -DFS
